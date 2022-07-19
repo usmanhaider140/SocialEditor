@@ -1,0 +1,39 @@
+/* CSS RESET */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  border: initial;
+  background-color: initial;
+}
+
+/* Body Styles */
+
+.app {
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  color: #fff;
+}
+
+/* Header Styles */
+
+.header {
+  background-image: linear-gradient(to right, #18a0be 0%, #622db9 100%);
+}
+
+.logo {
+}
+
+.dd-toggle {
+}
+
+.dd-toggle__icon {
+}
+
+.dd-toggle__img {
+}
+
+.dd-toggle__text {
+}
